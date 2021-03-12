@@ -1,0 +1,2 @@
+# LearnToTrade
+A project focused on giving our users a well structured archive of vital information on becoming a successful trader
